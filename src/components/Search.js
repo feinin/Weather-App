@@ -1,6 +1,14 @@
-const Search  = () => {
+import React from "react";
+
+function Search() {
     return (
-        hello
+        <div className="search-box">
+        <input 
+        type="text"
+        className="search-bar"
+        placeholder="Search for City"
+        />
+        </div>
     )
 }
 

@@ -1,3 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Custom Fonts */
 body {
   margin: 0;
   font-family: "Commissioner", Arial, Helvetica, sans-serif;
@@ -9,4 +16,22 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+/* Search Box, Search Bar */
+.search-box {
+  width: 100%;
+  margin: 0 0 75px;
+}
+
+.search-box .search-bar {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  background-color: rgb(201, 201, 201);
+  border-radius: 0px 0px 16px 16px;
+  margin-top: -25px;
+  box-shadow: 0px 5px black;
+  color: black;
+  transition: 0.4s ease;
 }
