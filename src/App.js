@@ -4,7 +4,7 @@ import Date from './components/Date';
 import Search from './components/Search';
 import Location from './components/Location';
 import Weather from './components/Weather';
-import { fetchWeather } from './components/Search2'
+
 
 const api = {
   key: "Y89f917705645d8f253fdfa1389379c95",
