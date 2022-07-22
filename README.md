@@ -2,7 +2,8 @@
 
 ## Screen Shots
 ![Screen Shot 2022-07-22 at 11 25 36 AM](https://user-images.githubusercontent.com/101943583/180501260-fc2fec20-5297-44b3-a389-6f1088a2a11f.png)
-![Screen Shot 2022-07-22 at 11 25 48 AM](https://user-images.githubusercontent.com/101943583/180501296-6211887c-57e8-42db-8686-c066a7c30e14.png)
+![Screen Shot 2022-07-22 at 11 27 56 AM](https://user-images.githubusercontent.com/101943583/180501527-3d6a705b-5254-4488-80a7-58a20ad5ad76.png)
+
 
 
 ## Project Description 
