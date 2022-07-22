@@ -1,8 +1,8 @@
 # Weather Without You
 
 ## Screen Shots
-![Screen Shot 2022-07-22 at 10 13 07 AM](https://user-images.githubusercontent.com/101943583/180493218-24faea5b-071c-4589-8baf-9208f028ed52.png)
-![Screen Shot 2022-07-22 at 10 13 22 AM](https://user-images.githubusercontent.com/101943583/180493233-973d7422-665f-41fb-9324-e5059a7c59bb.png)
+![Uploading Screen Shot 2022-07-22 at 11.25.36 AM.png…]()
+![Screen Shot 2022-07-22 at 11 25 48 AM](https://user-images.githubusercontent.com/101943583/180501190-7b2645cd-a154-4571-bf73-ef79120fef67.png)
 
 
 ## Project Description 
