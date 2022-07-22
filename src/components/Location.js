@@ -1,9 +1,10 @@
 import React from "react";
+import Weather from "./Weather";
 
 function Location() {
     return (
         <div className="location-box">
-        <div className="location">Long Beach, CA</div>
+        <div className="location"></div>
         </div>
     )
 }
